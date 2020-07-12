@@ -21,7 +21,7 @@ def assign_rooms(attendees)
 end 
 
 def printer(room_assignments)
-  room_assignments.each do 
+  room_assignments.each do ||
 end 
 
 
