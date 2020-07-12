@@ -20,7 +20,7 @@ def assign_rooms(attendees)
     room_assignments
 end 
 
-def printer(attendees, room_assignments)
+def printer(room_assignments)
   room_assignments.each do 
 end 
 
