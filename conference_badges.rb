@@ -24,5 +24,6 @@ def printer(new_attendees)
   badges_and_room_assignments.each_line do |line|
   puts line.chomp
 end 
+end 
 
 
