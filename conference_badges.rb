@@ -22,7 +22,7 @@ end
 
 def printer(room_assignments)
   badges_and_room_assignments.each_line do |line|
-  line.chomp
+  puts line.chomp
 end 
 
 
