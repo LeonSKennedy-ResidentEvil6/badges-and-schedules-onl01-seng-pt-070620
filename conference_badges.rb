@@ -21,7 +21,7 @@ def assign_rooms(attendees)
 end 
 
 def printer(attendee)
-  line.chomp
+  
 end 
 
 
