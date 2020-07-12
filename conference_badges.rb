@@ -20,7 +20,7 @@ def assign_rooms(attendees)
     room_assignments
 end 
 
-def printer(room_assignments)
+def printer(attendee)
   badges_and_room_assignments.each_line do |line|
   puts line.chomp
 end 
